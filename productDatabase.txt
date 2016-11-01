@@ -1,0 +1,13 @@
+1,tomato,1.3,veggie
+2,chocolate,3.4,sweets
+3,coffee,6.7,beverages
+4,ham,3.5,meat
+5,potato,1.3,veggie
+6,chips,3.4,snacks
+7,salmon,8.7,fish
+8,beef,5.5,meat
+9,apple,2.25,fruit
+10,almonds,3.45,snacks
+11,lemon,1.85,fruit
+12,milk,1.99,diary
+13,shampoo,4.35,cosmetic

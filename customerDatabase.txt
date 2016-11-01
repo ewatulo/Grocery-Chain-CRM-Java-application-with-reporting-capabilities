@@ -1,0 +1,13 @@
+1,ewa,24,female,3033,abc@gmail.com,false
+2,fifi,45,female,4509,tur@gkt.vl,true
+3,figo,30,male,3033,abc@gmail.com,false
+4,simon,34,male,3267,simon@gmail.com,true
+5,Ramen,26,male,3560,ram@via.com,false
+6,Maria,37,female,3460,maria@hotmail.com,false
+7,Tomas,22,male,3789,tomas@mail.com,false
+8,Rija,38,female,3230,rija@mail.com,true
+9,Assad,50,male,3267,assad@mail.com,false
+10,Ahmed,27,male,3510,ahmed@mail.com,false
+11,Sara,33,female,3133,sara@mail.com,true
+12,alonso,28,male,3037,alonso@gmail.com,false
+13,Kate,45,female,3455,kate@gmail.com,true

@@ -1,0 +1,11 @@
+1,3456,Leen,1
+2,3034,VanDijk,2
+3,3037,Kralingen,3
+4,3780,Schiedam,4
+5,3267,Blaak,5
+6,3133,Maas,6
+7,3510,Oost,7
+8,3460,Centrum,8
+9,3455,Schieweg,9
+10,3037,Bergsingel,10
+11,3788,Noord,11

@@ -1,0 +1,5 @@
+Manager,Java2016,true
+ViceManager,Vice2016,true
+Yashar,java,true
+Intern,Intern2016,false
+Admin,ABC123,false
