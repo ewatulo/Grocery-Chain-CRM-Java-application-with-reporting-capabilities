@@ -1,7 +1,7 @@
 # Grocery-Chain-CRM-Java-application-with-reporting-capabilities
 crm application with reporting capabilities
 
-The application keeps track of customers' purchase histories in all stores of a grocery chain.
+The application keeps track of customers' purchase histories in all stores of a retail chain.
 New transactions (receipts) can be generated and added to the database via Cashier Class.
 customerMenu Class stands for an interface for customers (Customer Class) who have Bonus cards, the interface enables them to view their 
 profile,update their personal data, check their transactions and modify their membership (to a MemberCustomer in order to receive 
