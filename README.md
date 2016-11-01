@@ -1,4 +1,4 @@
-# Grocery-Chain-CRM-Java-application-with-reporting-capabilities
+# Retail-Chain-CRM-Java-application-with-reporting-capabilities
 crm application with reporting capabilities
 
 The application keeps track of customers' purchase histories in all stores of a retail chain.
